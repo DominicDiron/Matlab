@@ -1,0 +1,3 @@
+function data = shuffleData(data)
+    
+    [m,n] = size(
